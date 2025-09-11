@@ -6,8 +6,8 @@ This project is part of my programming portfolio, showcasing my learning progres
 ---
 
 ## 📂 What’s Inside  
-- ✅ Solutions to practice exercises and challenges  
-- 🎯 Problem-solving examples from platforms like Exercism, LeetCode, and Stepik  
+- ✅ Solutions to practice exercises and challenges 
+- 🎯 Problem-solving examples from platforms like Exercism, LeetCode  
 - 🛠️ Small projects and code snippets that demonstrate C# fundamentals  
 
 ---
