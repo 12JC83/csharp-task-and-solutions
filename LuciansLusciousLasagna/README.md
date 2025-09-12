@@ -46,10 +46,11 @@ dotnet run --project LuciansLusciousLasagna
 ```
 
 ## ✅ Example
+
+```csharp
 var lasagna = new Lasagna();
 
-Console.WriteLine(lasagna.ExpectedMinutesInOven());        // => 40
-Console.WriteLine(lasagna.RemainingMinutesInOven(30));     // => 10
-Console.WriteLine(lasagna.PreparationTimeInMinutes(2));    // => 4
-Console.WriteLine(lasagna.ElapsedTimeInMinutes(3, 20));    // => 26
-```
+Console.WriteLine(lasagna.ExpectedMinutesInOven());       // => 40
+Console.WriteLine(lasagna.RemainingMinutesInOven(30));    // => 10
+Console.WriteLine(lasagna.PreparationTimeInMinutes(2));   // => 4
+Console.WriteLine(lasagna.ElapsedTimeInMinutes(3, 20));   // => 26
